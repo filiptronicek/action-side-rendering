@@ -1,0 +1,8 @@
+name: "action-side-rendering"
+description: "Let an action change your README.md."
+branding:
+  icon: "database"
+  color: "purple"
+runs:
+  using: "node12"
+  main: "index.js"
