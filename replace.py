@@ -6,4 +6,4 @@ with open("config.json") as a:
     jsson = json.loads(jsson)
 
 
-print(lines.replace(jsson["templating"], ))
+print(lines.replace(jsson["templating"], "lol"))
